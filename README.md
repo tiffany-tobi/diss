@@ -1,2 +1,2 @@
 # diss
-Bioinformatics analyses done during my diss
+Bioinformatics analyses done during my diss ass well as raw data files used
