@@ -1,0 +1,128 @@
+---
+title: "data analysis"
+output: html_document
+date: "2026-04-08"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+setwd("~/Downloads/BIOL3034")
+library(ape)
+library(ggtree)
+library(phytools)
+library(treeio)
+library(ggplot2)
+library(patchwork)
+library(tidyverse)
+library(rentrez)
+
+####### PSI-BLAST analysis and phylogenetic tree generation #########
+
+a <- read.csv("ncKwaA_PSI-BLAST_Analysis.csv")
+b <- read.csv("ncKwaB_PSI-BLAST_analysis.csv")
+
+table(a$Is.the.orientation.ncKwa.)
+table(b$Is.the.orientation.ncKwa.)
+
+yes <- which(b$Is.the.orientation.ncKwa. == "Yes")
+b_tree <- b[yes,]
+seqs <- b_tree$Accession
+write.csv(seqs, file = "ncKwa_accessions.csv") 
+
+tree <- read.tree("ncKwa_aln_tree.newick")
+b_tree$Accession <- gsub("\\.1", "", b_tree$Accession)
+tip_labels <- data.frame(tree$tip.label)
+info <- data.frame (origin = b_tree$Accession, Phylum = b_tree$Phylum)
+phyla <- merge(tip_labels, info, by.x = 'tree.tip.label', by.y = 'origin', sort = F)
+tree$tip.label <- phyla$Phylum
+f1 <- ggtree(tree, aes(color = label), layout = "circular") + 
+  labs(color = "Phyla") +  
+  geom_treescale(x = -0.25, offset = 10) +
+  scale_color_discrete(
+    breaks = c("Bacillota", "Bacteroidota", "Campylobacterota", "Fusobacteriota", "Pseudomondata", "unclassified Bacteria", "unclassified bacterial viruses", "Uroviricota")) + 
+  theme(legend.text = element_text(size = 14),
+        legend.title = element_text(size = 16))
+
+########## Frequency histogram ##########
+two <- which(grepl("two", b$Remarks))
+b_two <- b[two,]
+table(b_two$Order)
+
+dbl <- which(grepl("into", a$Remarks))
+a_two <- a[dbl,]
+table(a_two$Order)
+
+y <- tail(sort(table(b$Order)), n= 11)
+y_df <- as.data.frame(y)
+y_df$Var1 <- as.character(y_df$Var1)
+y_df <- arrange(y_df, Var1)
+y_df <- y_df[-10,]
+
+length(which(a$Order == "Bacillales"))
+length(which(a$Order == "Bacteroidales"))
+length(which(a$Order == "Enterobacterales"))
+length(which(a$Order == "Eubacteriales"))
+length(which(a$Order == "Flavobacteriales"))
+length(which(a$Order == "Ktedonobacterales"))
+length(which(a$Order == "Lactobacillales"))
+length(which(a$Order == "Peptostreptococcales"))
+length(which(a$Order == "Vibrionales"))
+length(which(a$Order == "unclassified Bacteria"))
+counts <- c(20, 20, 95, 15, 41, 12, 1, 1, 54, 4)
+names <- c("Bacillales", "Bacteroidales", "Enterobacterales", "Eubacteriales",  "Flavobacteriales", "Ktedonobacterales", "Lactobacillales", "Peptostreptococcales", "Vibrionales", "unclassified Bacteria")
+x <- data.frame(names, counts)
+
+par(mar=c(4,10,4,4))
+par(mfcol=c(1,2))
+barplot(height = x$counts, names = x$names, horiz = T, las = 1, main = "ncKwaA", xlab = "Count")
+barplot(height = y_df$Freq, names = y_df$Var1, horiz = T, las = 1, main = "ncKwaB", xlab = "Count", yaxt = 'n')
+
+####### EOP data handling #########
+eop <- read.csv("eop.csv")
+log_eop <- eop[,-1]
+log_eop <- sapply(log_eop, function(x) log(x, base=10))
+rownames(log_eop) <- eop[,1]
+log_eop <- data.frame(log_eop)
+log_eop$Phages <- eop[,1]
+my.order <- c(1:16)
+log_eop %>% pivot_longer(cols = 1:2, names_to = "System", values_to = "logEOP") %>% group_by(Phages) %>% ggplot(aes(reorder(Phages, my.order), System, fill = logEOP)) +
+  geom_tile(color = "black")+
+  scale_fill_gradient2(low = "purple4",
+                       mid = "aliceblue",
+                       high = "steelblue1") +
+  coord_fixed() +
+  theme(panel.grid.major = element_blank(), 
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank())+ 
+  guides(fill=guide_colorbar(ticks.colour = NA))
+
+########## SNP data handling #############
+filtering <- function(csvfile) {
+csv <- read.csv(csvfile)
+passes <- which(csv$Coverage >= 100 & csv$Average.Quality >= 30)
+csv <- csv[passes,]
+snp <- grep('SNP', csv$Polymorphism.Type)
+csv <- csv[snp,]
+subone <- which(csv$Minimum >= 432 & csv$Minimum <= 992)
+subtwo <- which(csv$Maximum >= 1007 & csv$Maximum <= 1915)
+csv_subone <- csv[subone,]
+csv_subtwo <- csv[subtwo,]
+csv <- rbind(csv_subtwo, csv_subone)
+assign("filtered_csv", csv, envir = .GlobalEnv)
+}
+
+filtering("RCA_SNPs.csv")
+write.csv(filtered_csv, file = "RCA_SNPs_filtered.csv")
+
+filtering("T7_GOF_SNPs.csv")
+write.csv(filtered_csv, file = "T7_GOF_SNPs_filtered.csv")
+
+filtering("T7_LOF_SNPs.csv")
+write.csv(filtered_csv, file = "T7_LOF_SNPs_filtered.csv")
+
+filtering("T7_Neut_Rab43_SNPs.csv")
+write.csv(filtered_csv, file = "T7_Neut_Rab43_SNPs_filtered.csv")
+
+filtering("T7_Neut_T2_SNPs.csv")
+write.csv(filtered_csv, file = "T7_Neut_T2_SNPs_filtered.csv")
+```
