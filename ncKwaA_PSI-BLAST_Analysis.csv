@@ -1,0 +1,506 @@
+Cluster Composition,Cluster Ancestor,Representative sequence,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  ,Is the orientation ncKwa?,Any other defence system on same loci?,Other systems present,Remarks,Phylum,Order
+2 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Thiolapillus sp.],243,243,96%,4.00E-74,20.73,580,WP_293688327.1,No,,,,Pseudomonadota,Chromatiales
+1 member(s) 1 organism(s),g-proteobacteria,"anti-phage protein KwaA, partial [Thiolapillus sp.]",216,216,96%,5.00E-67,20.73,282,WP_419650460.1,No,,,,Pseudomonadota,Chromatiales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Zestomonas thermotolerans],208,208,96%,5.00E-65,21.88,192,WP_027896257.1,No,,,,Pseudomonadota,Pseudomonadales
+9 member(s) 9 organism(s),proteobacteria,anti-phage protein KwaA [Bordetella hinzii],208,208,96%,6.00E-65,23.83,193,WP_048939834.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [uncultured Paraglaciecola sp.],207,207,96%,2.00E-64,21.24,194,WP_299077295.1,No,,,,Pseudomonadota,Alteromonadales
+2 member(s) 2 organism(s),enterobacteria,anti-phage protein KwaA [Serratia ureilytica],206,206,97%,2.00E-64,20.41,199,WP_197795729.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Candidatus Thiodiazotropha sp.],206,206,96%,4.00E-64,21.76,194,MES9971421.1,No,,,,Pseudomonadota,Chromatiales
+1 member(s) 1 organism(s),proteobacteria,anti-phage protein KwaA [Pseudomonadota bacterium],206,206,94%,1.00E-63,22.22,234,MFC1542772.1,No,,,,Pseudomonadota,unclassified Pseudomonadota
+1 member(s) 1 organism(s),b-proteobacteria,hypothetical protein [Rhodocyclaceae bacterium],204,204,95%,3.00E-63,23.56,193,MBW7900980.1,No,,,,Pseudomonadota,Rhodocyclales
+2 member(s) 2 organism(s),g-proteobacteria,hypothetical protein [Candidatus Thiodiazotropha lotti],202,202,96%,7.00E-63,21.76,194,MCG7988392.1,No,,,,Pseudomonadota,Chromatiales
+3 member(s) 3 organism(s),g-proteobacteria,anti-phage protein KwaA [Vreelandella aquamarina],201,201,96%,3.00E-62,20.51,194,WP_062363257.1,No,,,,Pseudomonadota,Oceanospirillales
+3 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Yersinia enterocolitica],201,201,97%,3.00E-62,22.96,199,WP_050164291.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,MAG: hypothetical protein COC09_02410 [Gammaproteobacteria bacterium],201,201,94%,4.00E-62,22.11,194,PCH64457.1,No,,,,Pseudomonadota,unclassified Gammaproteobacteria
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Nitrosomonas sp.],200,200,94%,9.00E-62,20.53,194,MDP1557630.1,No,,,,Pseudomonadota,Nitrosomonadales
+2 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Pseudomonas citronellolis],199,199,96%,2.00E-61,20.21,194,WP_083280332.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),b-proteobacteria,hypothetical protein [Ottowia sp.],199,199,96%,2.00E-61,23.44,192,MBQ6656532.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),g-proteobacteria,hypothetical protein SAMN03159405_06106 [Pseudomonas sp. NFACC44-2],200,200,98%,3.00E-61,18.27,229,SCZ47365.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),bacteria,anti-phage protein KwaA [Rhodopirellula europaea],197,197,96%,9.00E-61,19.69,194,WP_008668037.1,No,,,,Planctomycetota,Pirellulales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Cellvibrio sp. ARAG 10.3],197,197,96%,1.00E-60,20.62,196,WP_439176960.1,No,,,,Pseudomonadota,Cellvibrionales
+3 member(s) 2 organism(s),enterobacteria,MULTISPECIES: anti-phage protein KwaA [Klebsiella],198,198,96%,1.00E-60,20.51,229,WP_265767820.1,No,,,,Pseudomonadota,Enterobacterales
+2 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Candidatus Thiodiazotropha endolucinida],196,196,97%,3.00E-60,22.05,195,MEW8061417.1,No,,,,Pseudomonadota,Chromatiales
+17 member(s) 14 organism(s),g-proteobacteria,MULTISPECIES: anti-phage protein KwaA [unclassified Pseudoalteromonas],196,196,97%,3.00E-60,22.05,195,WP_008114680.1,No,,,,Pseudomonadota,Alteromonadales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Steroidobacter denitrificans],196,196,94%,4.00E-60,20,193,WP_066917797.1,No,,,,Pseudomonadota,Steroidobacterales
+1 member(s) 1 organism(s),e-proteobacteria,anti-phage protein KwaA [Sulfurovum sp.],196,196,95%,5.00E-60,22.51,194,WP_373032871.1,No,,,,Campylobacterota,Campylobacterales
+2 member(s) 2 organism(s),enterobacteria,anti-phage protein KwaA [Ewingella americana],196,196,96%,6.00E-60,19.49,200,WP_140471153.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Halomonas sp. IOP_14],195,195,95%,6.00E-60,23.04,192,WP_230804974.1,No,,,,Pseudomonadota,Oceanospirillales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Paraburkholderia domus],195,195,96%,9.00E-60,21.13,195,WP_328822726.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),bacteria,anti-phage protein KwaA [Rhodopirellula baltica],194,194,94%,1.00E-59,18.95,193,WP_007340379.1,No,,,,Planctomycetota,Pirellulales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Citrobacter portucalensis],196,196,94%,1.00E-59,20.42,223,MFV4777574.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,hypothetical protein [Gammaproteobacteria bacterium],194,194,95%,2.00E-59,20.31,196,MCF6257258.1,No,,,,Pseudomonadota,unclassified Gammaproteobacteria
+1 member(s) 1 organism(s),g-proteobacteria,MULTISPECIES: anti-phage protein KwaA [Aeromonas],194,194,97%,2.00E-59,22.05,195,WP_139436083.1,No,,,,Pseudomonadota,Aeromonadales
+1 member(s) 1 organism(s),verrucomicrobia,hypothetical protein [Verrucomicrobiia bacterium],194,194,98%,3.00E-59,20.71,200,NCC62090.1,No,,,,Verrucomicrobiota,unclassified Verrucomicrobiia
+4 member(s) 4 organism(s),bacteria,anti-phage protein KwaA [Marinomonas sargassi],193,193,97%,5.00E-59,22.96,198,WP_263529656.1,No,,,,Pseudomonadota,Oceanospirillales
+1 member(s) 1 organism(s),g-proteobacteria,MULTISPECIES: anti-phage protein KwaA [Neptunomonas],192,192,94%,6.00E-59,21.99,193,WP_370052359.1,No,,,,Pseudomonadota,Oceanospirillales
+6 member(s) 4 organism(s),enterobacteria,MULTISPECIES: anti-phage protein KwaA [Enterobacter],193,193,96%,7.00E-59,20,200,WP_032634077.1,No,,,KwaB split into two,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Ferriphaselus sp. R-1],192,192,95%,8.00E-59,17.71,194,WP_035384730.1,No,,,,Pseudomonadota,Nitrosomonadales
+15 member(s) 3 organism(s),enterobacteria,anti-phage protein KwaA [Escherichia coli],192,192,96%,9.00E-59,19.49,200,WP_271290915.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),RNA similarity group I,MULTISPECIES: anti-phage protein KwaA [Pseudomonas],193,193,98%,1.00E-58,18.78,222,WP_235571164.1,No,,,,Pseudomonadota,Pseudomonadales
+2 member(s) 2 organism(s),enterobacteria,anti-phage protein KwaA [Enterobacter huaxiensis],191,191,96%,2.00E-58,18.46,200,WP_259389155.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Microbulbifer variabilis],191,191,97%,3.00E-58,19.49,195,WP_475102827.1,No,,,,Pseudomonadota,Cellvibrionales
+3 member(s) 3 organism(s),RNA similarity group I,anti-phage protein KwaA [Pseudomonas palleroniana],191,191,96%,3.00E-58,19.17,194,WP_104994798.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Pseudoalteromonas peptidolytica],190,190,94%,3.00E-58,22.11,192,WP_318672023.1,No,,,,Pseudomonadota,Alteromonadales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Chelonobacter oris],190,190,96%,3.00E-58,23.44,192,WP_034616122.1,No,,,,Pseudomonadota,Pasteurellales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Stenotrophomonas humi],190,190,96%,3.00E-58,24.87,193,WP_449468216.1,No,,,,Pseudomonadota,Lysobacterales
+1 member(s) 1 organism(s),bacteria,anti-phage protein KwaA [Pseudobdellovibrionaceae bacterium],190,190,96%,4.00E-58,21.24,194,MFA7275876.1,No,,,,Bdellovibrionota,Bdellovibrionales
+1 member(s) 1 organism(s),bacteria,anti-phage protein KwaA [Kiritimatiellales bacterium],190,190,94%,4.00E-58,19.47,194,MFA7257392.1,No,,,,Kiritimatiellota,Kiritimatiellales
+2 member(s) 2 organism(s),enterobacteria,anti-phage protein KwaA [Dickeya fangzhongdai],190,190,96%,6.00E-58,20.51,200,WP_121480419.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),RNA similarity group I,MULTISPECIES: anti-phage protein KwaA [Pseudomonas],190,190,96%,7.00E-58,19.17,195,WP_150798001.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Epilithonimonas xixisoli],190,190,94%,8.00E-58,21.05,196,WP_133943226.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),bacteria,anti-phage protein KwaA [Thermodesulfobacteriota bacterium],190,190,96%,9.00E-58,23.2,196,MHO4194607.1,No,,,,Thermodesulfobacteriota,unclassified Thermodesulfobacteriota
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Cytophagales bacterium],189,189,95%,1.00E-57,20.83,194,HCW07284.1,No,,,,Bacteroidota,Cytophagales
+5 member(s) 5 organism(s),RNA similarity group I,MULTISPECIES: anti-phage protein KwaA [unclassified Pseudomonas],189,189,96%,1.00E-57,18.65,194,WP_092151200.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Motiliproteus sp.],189,189,97%,2.00E-57,19.49,195,WP_421865064.1,No,,,,Pseudomonadota,Oceanospirillales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Halomonas sp. AOP43-D1-4],189,189,95%,2.00E-57,21.47,194,WP_444680438.1,No,,,,Pseudomonadota,Oceanospirillales
+10 member(s) 5 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Escherichia coli]",189,189,96%,2.00E-57,18.97,201,WP_262826113.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Pantoea agglomerans],189,189,96%,2.00E-57,21.03,200,WP_182500235.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Gilvimarinus xylanilyticus],189,189,96%,2.00E-57,21.24,194,WP_253969226.1,No,,,,Pseudomonadota,Cellvibrionales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Shewanella xiamenensis],189,189,97%,2.00E-57,23.08,195,WP_374920578.1,No,,,,Pseudomonadota,Alteromonadales
+1 member(s) 1 organism(s),proteobacteria,anti-phage protein KwaA [Mariprofundus aestuarium],189,189,96%,2.00E-57,18.65,195,WP_100277062.1,No,,,,Pseudomonadota,Mariprofundales
+4 member(s) 3 organism(s),Arcobacter group,anti-phage protein KwaA [Halarcobacter mediterraneus],189,189,96%,2.00E-57,22.28,193,WP_129060153.1,No,,,,Campylobacterota,Campylobacterales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Limnohabitans sp.],188,188,95%,4.00E-57,15.62,195,WP_448442417.1,No,,,,Pseudomonadota,Burkholderiales
+12 member(s) 8 organism(s),enterobacteria,anti-phage protein KwaA [Enterobacter soli],188,188,97%,4.00E-57,19.9,200,WP_331408630.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),enterobacteria,hypothetical protein [Morganella morganii subsp. morganii],188,188,96%,5.00E-57,18.46,200,HEO9718316.1,No,,,,Pseudomonadota,Enterobacterales
+3 member(s) 3 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio pectenicida],188,188,97%,5.00E-57,23.59,195,WP_171361347.1,No,,,,Pseudomonadota,Vibrionales
+6 member(s) 3 organism(s),enterobacteria,anti-phage protein KwaA [Escherichia coli],188,188,96%,6.00E-57,19.59,200,WP_231833453.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Enterobacterales
+5 member(s) 3 organism(s),g-proteobacteria,anti-phage protein KwaA [Aeromonas salmonicida],187,187,96%,8.00E-57,21.65,195,WP_125607766.1,No,,,,Pseudomonadota,Aeromonadales
+1 member(s) 1 organism(s),proteobacteria,anti-phage protein KwaA [Pseudomonadota bacterium],187,187,92%,8.00E-57,21.93,192,MEC8327234.1,No,,,,Pseudomonadota,unclassified Pseudomonadota
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Roseivirga sp.],187,187,95%,1.00E-56,21.99,192,WP_421986305.1,No,,,,Pseudomonadota,Cytophagales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Marinobacter azerbaijanicus],187,187,96%,1.00E-56,20.62,194,WP_422732788.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),proteobacteria,anti-phage protein KwaA [Acidithiobacillus ferrivorans],187,187,96%,1.00E-56,17.62,194,MHB8236170.1,No,,,,Pseudomonadota,Acidithiobacillales
+1 member(s) 1 organism(s),proteobacteria,hypothetical protein [Pseudomonadota bacterium],186,186,94%,2.00E-56,21.58,194,MBS0298577.1,No,,,,Pseudomonadota,unclassified Pseudomonadota
+3 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Shewanella surugensis],186,186,97%,2.00E-56,21.83,198,WP_248943439.1,No,,,,Pseudomonadota,Alteromonadales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Carboxylicivirga sp.],186,186,94%,2.00E-56,24.21,191,MCT4590614.1,No,,,,Bacteroidota,Marinilabiliales
+3 member(s) 3 organism(s),g-proteobacteria,anti-phage protein KwaA [Aliiglaciecola sp. SL4],185,185,92%,4.00E-56,21.93,192,WP_372547395.1,No,,,,Pseudomonadota,Alteromonadales
+1 member(s) 1 organism(s),bacteria,anti-phage protein KwaA [Candidatus Zixiibacteriota bacterium],185,185,97%,8.00E-56,22.05,201,MEZ5358851.1,No,,,,Zixiibacteriota,unclassified Candidatus Zixiibacteriota
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Methylotenera mobilis],184,184,95%,1.00E-55,18.75,193,WP_012777593.1,No,,,,Pseudomonadota,Nitrosomonadales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Marinoscillum pacificum],184,184,95%,1.00E-55,23.56,192,WP_258100626.1,No,,,,Bacteroidota,Cytophagales
+1 member(s) 1 organism(s),b-proteobacteria,hypothetical protein [Nitrosomonadales bacterium],184,184,95%,1.00E-55,21.88,194,MBI5429436.1,No,,,,Pseudomonadota,Nitrosomonadales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Desulfosporosinus meridiei],184,184,100%,1.00E-55,24.1,195,WP_471717414.1,No,,,,Bacillota,Eubacteriales
+2 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Xanthomonas graminis],184,184,83%,2.00E-55,22.5,195,WP_237652048.1,No,,,,Pseudomonadota,Lysobacterales
+1 member(s) 1 organism(s),RNA similarity group I,MULTISPECIES: anti-phage protein KwaA [Pseudomonas],184,184,96%,2.00E-55,20.62,195,WP_153772556.1,No,,,,Pseudomonadota,Pseudomonadales
+6 member(s) 4 organism(s),g-proteobacteria,MULTISPECIES: anti-phage protein KwaA [Aeromonas],184,184,96%,2.00E-55,20.62,195,WP_080628951.1,No,,,,Pseudomonadota,Aeromonadales
+2 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Marinomonas maritima],183,183,94%,3.00E-55,21.99,193,WP_394358987.1,No,,,,Pseudomonadota,Oceanospirillales
+3 member(s) 3 organism(s),enterobacteria,anti-phage protein KwaA [Proteus vulgaris],184,184,96%,3.00E-55,19.49,200,WP_247850080.1,No,,,,Pseudomonadota,Enterobacterales
+15 member(s) 11 organism(s),enterobacteria,anti-phage protein KwaA [Citrobacter sp. Cb004],183,183,96%,4.00E-55,20,200,WP_286455571.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Clostridium sp. BSD9I1],183,183,96%,5.00E-55,25.91,202,WP_207653886.1,No,,,,Bacillota,Eubacteriales
+2 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Halioglobus sp.],182,182,94%,8.00E-55,21.05,194,MEZ5568267.1,No,,,,Pseudomonadota,Cellvibrionales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Labilibaculum euxinicum],181,181,94%,2.00E-54,22.63,191,WP_124991130.1,No,,,,Bacteroidota,Marinilabiliales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio harveyi],180,180,95%,3.00E-54,17.71,192,EOU3283508.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Methylophilaceae bacterium],180,180,95%,3.00E-54,20.42,194,MEZ0318286.1,No,,,,Pseudomonadota,Nitrosomonadales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Pseudomonas putida],180,180,98%,4.00E-54,16.15,196,WP_274109238.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),g-proteobacteria,MULTISPECIES: anti-phage protein KwaA [Vibrionaceae],180,180,97%,4.00E-54,16.16,198,WP_148636169.1,No,,,,Pseudomonadota,Vibrionales
+3 member(s) 2 organism(s),bacteria,anti-phage protein KwaA [Shewanella sp. YLB-07],180,180,94%,5.00E-54,23.56,193,WP_227992811.1,No,,,,Pseudomonadota,Alteromonadales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Desulforamulus aquiferis],180,180,96%,7.00E-54,23.83,194,WP_304540859.1,No,,,,Bacillota,Eubacteriales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Vogesella indigofera],180,180,94%,7.00E-54,21.99,192,WP_120809954.1,No,,,,Pseudomonadota,Neisseriales
+5 member(s) 5 organism(s),proteobacteria,MULTISPECIES: anti-phage protein KwaA [Alcaligenes],180,180,98%,7.00E-54,16.67,196,WP_009455712.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),e-proteobacteria,anti-phage protein KwaA [Aliarcobacter butzleri],179,179,96%,2.00E-53,21.76,194,WP_151950520.1,No,,,,Campylobacterota,Campylobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [uncultured Alcanivorax sp.],179,179,94%,2.00E-53,22.11,192,WP_300352838.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Oceanospirillales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Pedobacter chinensis],178,178,92%,3.00E-53,19.15,190,WP_115405060.1,No,,,,Bacteroidota,Sphingobacteriales
+2 member(s) 2 organism(s),enterobacteria,anti-phage protein KwaA [Pantoea dispersa],178,178,96%,3.00E-53,20,196,WP_236569447.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),bacteria,hypothetical protein [Balneola sp.],178,178,94%,3.00E-53,23.16,190,MAO65309.1,No,,,,Balneolota,Balneolales
+1 member(s) 1 organism(s),E. coli,hypothetical protein [Escherichia coli],177,177,89%,4.00E-53,20.99,181,HCC7632532.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Enterobacterales
+2 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Natranaerovirga hydrolytica],178,178,98%,4.00E-53,22.34,202,WP_132283202.1,No,,,,Bacillota,Lachnospirales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Lachnospiraceae bacterium],178,178,97%,4.00E-53,22.05,201,MDO4317457.1,No,,,,Bacillota,Lachnospirales
+1 member(s) 1 organism(s),b-proteobacteria,MULTISPECIES: anti-phage protein KwaA [Achromobacter],178,178,96%,4.00E-53,21.76,195,WP_088590536.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Nitrosovibrio tenuis],178,178,97%,4.00E-53,19.49,196,WP_090828138.1,No,,,,Pseudomonadota,Nitrosomonadales
+2 member(s) 2 organism(s),enterobacteria,anti-phage protein KwaA [Pectobacterium carotovorum],178,178,82%,5.00E-53,22.01,199,WP_010301880.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Methylococcales bacterium],178,178,96%,5.00E-53,18.78,200,MFK5950649.1,No,,,,Pseudomonadota,Methylococcales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Prevotella intermedia],177,177,94%,6.00E-53,21.47,191,WP_099836902.1,No,,,,Bacteroidota,Bacteroidales
+7 member(s) 6 organism(s),enterobacteria,MULTISPECIES: anti-phage protein KwaA [unclassified Serratia (in: enterobacteria)],177,177,96%,6.00E-53,21.03,198,WP_399673974.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),e-proteobacteria,anti-phage protein KwaA [Malaciobacter mytili],177,177,96%,6.00E-53,22.28,193,WP_416880406.1,No,,,,Campylobacterota,Campylobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Pasteurella multocida],177,177,94%,6.00E-53,21.05,197,MFC1027129.1,No,,,,Pseudomonadota,Pasteurellales
+3 member(s) 3 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio metschnikovii],177,177,95%,6.00E-53,16.67,194,WP_263231676.1,No,,,,Pseudomonadota,Vibrionales
+4 member(s) 4 organism(s),RNA similarity group I,anti-phage protein KwaA [Pseudomonas koreensis],177,177,97%,9.00E-53,15.71,196,WP_301621603.1,No,,,,Pseudomonadota,Pseudomonadales
+3 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio mimicus],177,177,95%,1.00E-52,15.62,194,WP_334428758.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),bacteria,hypothetical protein [Synergistaceae bacterium],177,177,96%,1.00E-52,18.65,193,NLM71851.1,No,,,,Synergistota,Synergistales
+2 member(s) 2 organism(s),RNA similarity group I,MULTISPECIES: anti-phage protein KwaA [Pseudomonas],177,177,98%,1.00E-52,15.62,196,WP_154211926.1,No,,,,Pseudomonadota,Pseudomonadales
+3 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Acinetobacter baumannii],177,177,94%,1.00E-52,23.56,191,WP_145850589.1,No,,,,Pseudomonadota,Moraxellales
+1 member(s) 1 organism(s),g-proteobacteria,MULTISPECIES: anti-phage protein KwaA [Xanthomonas],176,176,94%,2.00E-52,18.82,188,WP_082473585.1,No,,,,Pseudomonadota,Lysobacterales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Pedobacter fastidiosus],176,176,93%,2.00E-52,22.53,189,WP_187071980.1,No,,,,Bacteroidota,Sphingobacteriales
+7 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio parahaemolyticus],176,176,97%,2.00E-52,16.67,198,WP_258485012.1,No,,,,Pseudomonadota,Vibrionales
+3 member(s) 2 organism(s),root,anti-phage protein KwaA [Campylobacter concisus],175,175,94%,3.00E-52,22.63,194,WP_103630394.1,No,,,,Campylobacterota,Campylobacterales
+5 member(s) 4 organism(s),firmicutes,anti-phage protein KwaA [Gemmiger sp.],176,176,99%,3.00E-52,23.62,204,WP_291223972.1,No,,,,Bacillota,Eubacteriales
+1 member(s) 1 organism(s),g-proteobacteria,hypothetical protein [Kangiella sp.],175,175,94%,4.00E-52,22.11,193,MBD3668547.1,No,,,,Pseudomonadota,Kangiellales
+1 member(s) 1 organism(s),,anti-phage protein KwaA [Pseudomonas sp. TE12234],175,175,98%,5.00E-52,17.71,196,WP_457373133.1,No,,,,Pseudomonadota,Pseudomonadales
+2 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Brenneria salicis],174,174,79%,6.00E-52,22.22,160,WP_280523370.1,No,,,,Pseudomonadota,Enterobacterales
+2 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Ruthenibacterium lactatiformans],175,175,99%,9.00E-52,22.22,202,WP_205457429.1,No,,,,Bacillota,Eubacteriales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Pseudomonas sp. MWU16-30317],174,174,98%,9.00E-52,15.62,196,WP_226504119.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Rheinheimera riviphila],174,174,97%,9.00E-52,19.19,198,WP_127701158.1,No,,,,Pseudomonadota,Chromatiales
+13 member(s) 12 organism(s),g-proteobacteria,anti-phage protein KwaA [Alteromonas sp. DY56-G5],174,174,97%,1.00E-51,18.18,198,WP_278343988.1,No,,,,Pseudomonadota,Alteromonadales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Labilibaculum euxinicum],174,174,92%,1.00E-51,23.04,193,WP_461643943.1,No,,,,Bacteroidota,Marinilabiliales
+5 member(s) 3 organism(s),enterobacteria,hypothetical protein [Enterobacter hormaechei],173,173,83%,1.00E-51,21.12,172,HCR0099897.1,N/A,,,Seems to only have nckwaA,Pseudomonadota,Enterobacterales
+2 member(s) 2 organism(s),enterobacteria,anti-phage protein KwaA [Enterobacter kobei],174,174,97%,1.00E-51,19.9,203,WP_248180727.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Robiginitalea biformata],173,173,94%,2.00E-51,23.28,189,WP_420592724.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Rahnella aceris]",172,172,79%,2.00E-51,22.22,156,WP_217147194.1,No,,,,Pseudomonadota,Enterobacterales
+4 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio fluvialis],174,174,95%,2.00E-51,23.41,208,WP_238851720.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),g-proteobacteria,MULTISPECIES: anti-phage protein KwaA [Vibrio],172,172,94%,4.00E-51,21.58,190,WP_025640039.1,No,,,,Pseudomonadota,Vibrionales
+2 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Sphingobacterium faecium],173,173,96%,4.00E-51,18.56,196,WP_228115736.1,No,,,,Bacteroidota,Sphingobacteriales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Edaphocola aurantiacus],172,172,84%,5.00E-51,25.77,194,WP_222167067.1,No,,,,Bacteroidota,Chitinophagales
+3 member(s) 1 organism(s),E. coli,anti-phage protein KwaA [Escherichia coli],171,171,81%,6.00E-51,21.02,160,HHH7049939.1,No,,,,Pseudomonadota,Enterobacterales
+3 member(s) 2 organism(s),g-proteobacteria,hypothetical protein [Vibrio parahaemolyticus],172,172,94%,8.00E-51,21.05,190,EKB3555031.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio parahaemolyticus],172,172,94%,1.00E-50,19.59,198,WP_140049426.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Actinobacillus equuli],172,172,95%,1.00E-50,20.42,195,WP_279470125.1,No,,,,Pseudomonadota,Pasteurellales
+7 member(s) 5 organism(s),root,MULTISPECIES: anti-phage protein KwaA [Enterobacter cloacae complex],171,171,91%,2.00E-50,19.89,197,WP_252427160.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),RNA similarity group I,MULTISPECIES: anti-phage protein KwaA [Pseudomonas],171,171,98%,2.00E-50,16.67,196,WP_115077656.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),proteobacteria,anti-phage protein KwaA [Pseudomonadota bacterium],171,171,83%,2.00E-50,21.25,195,MES1983219.1,No,,,ncKwaB split in two,Pseudomonadota,unclassified Pseudomonadota
+6 member(s) 5 organism(s),enterobacteria,anti-phage protein KwaA [Mixta calida],171,171,96%,2.00E-50,21.54,199,WP_316546218.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [uncultured Methylophaga sp.],171,171,97%,2.00E-50,19.49,195,WP_297807863.1,No,,,,Pseudomonadota,Thiotrichales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Pseudomonas corrugata],171,171,97%,2.00E-50,17.28,196,WP_425274959.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Pseudomonas protegens],170,170,97%,3.00E-50,21.05,192,WP_110595321.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Paenalcaligenes sp.],170,170,80%,3.00E-50,21.43,192,MGO3890036.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),bacteria,MAG: hypothetical protein CV087_23175 [Candidatus Brocadia sp. WS118],171,171,82%,3.00E-50,24.05,200,TVL96863.1,No,,,,Planctomycetota,Candidatus Brocadiales
+3 member(s) 2 organism(s),enterobacteria,anti-phage protein KwaA [Escherichia coli],171,171,82%,3.00E-50,20.75,214,WP_023568590.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),firmicutes,hypothetical protein [Roseburia sp.],171,171,94%,3.00E-50,20.86,207,MCM1025615.1,No,,,,Bacillota,Lachnospirales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Prevotella histicola],170,170,94%,3.00E-50,19.37,191,WP_036868218.1,No,,,,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio qingdaonensis],170,170,96%,5.00E-50,15.76,204,WP_265674388.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Succinispira mobilis],170,170,97%,5.00E-50,22.8,194,WP_019879986.1,No,,,,Bacillota,Acidaminococcales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Halobacillus salinarum],170,170,85%,6.00E-50,24.55,218,WP_244708752.1,No,,,,Bacillota,Bacillales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Flavobacterium sp. AJR],170,170,94%,6.00E-50,21.99,192,WP_086893704.1,No,,,,Bacteroidota,Flavobacteriales
+2 member(s) 2 organism(s),CFB group bacteria,anti-phage protein KwaA [Flagellimonas sediminis],170,170,85%,7.00E-50,24.39,194,WP_163634471.1,No,,,,Bacteroidota,Flavobacteriales
+2 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Capnocytophaga canimorsus],169,169,84%,7.00E-50,28.22,194,WP_405217793.1,No,,,,Bacteroidota,Flavobacteriales
+2 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Shewanella morhuae],170,170,94%,8.00E-50,22,202,WP_220271688.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Alteromonadales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Budvicia diplopodorum],169,169,82%,8.00E-50,20.75,190,WP_159567453.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Rahnella sp. AA],169,169,97%,8.00E-50,18.88,199,WP_101079304.1,No,,,Two ncKwa systems on different loci,Pseudomonadota,Enterobacterales
+3 member(s) 1 organism(s),g-proteobacteria,hypothetical protein PALA51_05053 [Pseudomonas aeruginosa],170,170,83%,1.00E-49,16.77,219,WBI95174.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Exiguobacterium sp. CH10],169,169,95%,1.00E-49,25.13,194,WP_214876912.1,No,,,,Bacillota,Bacillales
+10 member(s) 5 organism(s),g-proteobacteria,MULTISPECIES: anti-phage protein KwaA [Acinetobacter],169,169,82%,1.00E-49,22.93,198,WP_353675471.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Moraxellales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Paenibacillus gyeongsangnamensis],169,169,95%,1.00E-49,23.96,192,WP_269886104.1,No,,,,Bacillota,Bacillales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Acinetobacter sp. WCHAc060025],169,169,94%,1.00E-49,23.04,191,WP_130116461.1,No,,,,Pseudomonadota,Moraxellales
+1 member(s) 1 organism(s),euryarchaeotes,hypothetical protein [Methanolobus sp.],169,169,94%,1.00E-49,21.76,202,MDI3486917.1,No,,,,Methanobacteriota,Methanosarcinales
+3 member(s) 3 organism(s),g-proteobacteria,MULTISPECIES: anti-phage protein KwaA [Vibrio],169,169,95%,2.00E-49,15.82,198,WP_123309787.1,No,,,,Pseudomonadota,Vibrionales
+3 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio campbellii],169,169,95%,2.00E-49,16.58,200,WP_332160029.1,No,,,,Pseudomonadota,Vibrionales
+44 member(s) 18 organism(s),enterobacteria,anti-phage protein KwaA [Escherichia coli],168,168,94%,2.00E-49,21.47,195,WP_001189511.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Photobacterium phosphoreum],169,169,96%,2.00E-49,18.45,208,WP_328282521.1,No,,,,Pseudomonadota,Vibrionales
+7 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Pseudomonas aeruginosa],168,168,83%,3.00E-49,16.77,196,WP_079384299.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),firmicutes,hypothetical protein [Lachnospiraceae bacterium],168,168,99%,3.00E-49,19.29,200,MEZ3428157.1,No,,,,Bacillota,Lachnospirales
+25 member(s) 9 organism(s),g-proteobacteria,anti-phage protein KwaA [Photobacterium damselae],168,168,95%,4.00E-49,23.41,205,WP_237033022.1,No,,,,Pseudomonadota,Vibrionales
+4 member(s) 4 organism(s),enterobacteria,anti-phage protein KwaA [Kosakonia radicincitans],169,169,97%,4.00E-49,21.43,216,WP_338074260.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Photobacterium damselae],168,168,95%,5.00E-49,16.75,210,WP_341496088.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Vibrionales
+13 member(s) 8 organism(s),enterobacteria,anti-phage protein KwaA [Klebsiella variicola],167,167,97%,6.00E-49,18.37,203,WP_131035581.1,No,,,,Pseudomonadota,Enterobacterales
+4 member(s) 4 organism(s),CFB group bacteria,MULTISPECIES: anti-phage protein KwaA [Porphyromonas],167,167,84%,6.00E-49,24.54,194,WP_025843495.1,No,,,,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Brumimicrobium sp.],167,167,85%,7.00E-49,26.83,194,MEX1190821.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),firmicutes,hypothetical protein [Lachnospiraceae bacterium],167,167,99%,7.00E-49,19.29,205,MDE7339518.1,No,,,,Bacteroidota,Lachnospirales
+1 member(s) 1 organism(s),CFB group bacteria,MAG: hypothetical protein EOO90_19910 [Pedobacter sp.],167,167,94%,7.00E-49,23.68,194,RZK39128.1,No,,,,Bacteroidota,Sphingobacteriales
+1 member(s) 1 organism(s),E. coli,"anti-phage protein KwaA, partial [Escherichia coli]",167,167,81%,8.00E-49,21.74,187,WP_267834396.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Enterobacterales
+3 member(s) 3 organism(s),fluorescent pseudomonads,anti-phage protein KwaA [Pseudomonas moraviensis],167,167,96%,8.00E-49,16.49,189,WP_252874665.1,No,,,,Pseudomonadota,Pseudomonadales
+3 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio vulnificus],167,167,96%,1.00E-48,16.49,195,WP_438052432.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio anguillarum],167,167,95%,1.00E-48,18.63,204,WP_017048216.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),g-proteobacteria,conserved membrane hypothetical protein [Vibrio chagasii],167,167,95%,1.00E-48,16.59,205,CAH7191024.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Xanthomonas sp. NCPPB 1325],166,166,85%,1.00E-48,21.47,195,WP_372361815.1,No,,,,Pseudomonadota,Lysobacterales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Paraburkholderia fungorum],166,166,83%,1.00E-48,22.93,192,CAH7191024.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),firmicutes,hypothetical protein [Lachnospiraceae bacterium],167,167,98%,2.00E-48,17.86,205,MCI8951582.1,N/A,,,Seems to only have ncKwaA,Bacillota,Lachnospirales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Acetoanaerobium noterae],166,166,95%,2.00E-48,20.94,193,WP_313016655.1,No,,,,Bacillota,Peptostreptococcales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Citrobacter amalonaticus],165,165,89%,2.00E-48,21.71,171,HGY4723620.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Enterobacterales
+20 member(s) 13 organism(s),enterobacteria,anti-phage protein KwaA [Lelliottia amnigena],166,166,97%,2.00E-48,21.43,199,WP_239609971.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Histophilus somni],166,166,95%,2.00E-48,20.1,195,WP_249960691.1,No,,,,Pseudomonadota,Pasteurellales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Acinetobacter sp. WCHAc060042],165,165,85%,2.00E-48,18.4,190,WP_110975569.1,No,,,,Pseudomonadota,Moraxellales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Klebsiella quasipneumoniae],165,165,83%,3.00E-48,21.74,173,WP_333493068.1,No,,,,Pseudomonadota,Enterobacterales
+2 member(s) 2 organism(s),enterobacteria,hypothetical protein [Salmonella enterica],164,164,81%,3.00E-48,22.5,164,EAV1664923.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Mesonia maritima],165,165,84%,3.00E-48,25.15,194,WP_309727526.1,No,,,,Bacteroidota,Flavobacteriales
+2 member(s) 2 organism(s),firmicutes,MULTISPECIES: anti-phage protein KwaA [unclassified Sedimentibacter],165,165,95%,4.00E-48,21.88,197,WP_308138119.1,No,,,,Bacteroidota,Tissierellales
+7 member(s) 7 organism(s),enterobacteria,anti-phage protein KwaA [Moellerella wisconsensis],165,165,95%,4.00E-48,20.31,195,WP_337260958.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Petrocella atlantisensis],165,165,95%,4.00E-48,24.35,194,WP_125137138.1,No,,,,Bacillota,Lachnospirales
+1 member(s) 1 organism(s),firmicutes,hypothetical protein [Lachnospiraceae bacterium],165,165,98%,4.00E-48,18.88,197,MBR1702527.1,No,,,,Bacillota,Lachnospirales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Photobacterium ganghwense],165,165,95%,4.00E-48,18.23,193,WP_217393094.1,No,,,,Pseudomonadota,Vibrionales
+2 member(s) 2 organism(s),CFB group bacteria,anti-phage protein KwaA [Flavobacterium sp. GT3P67],165,165,83%,5.00E-48,23.75,194,WP_131995458.1,No,,,,Bacteroidota,Flavobacteriales
+3 member(s) 2 organism(s),b-proteobacteria,anti-phage protein KwaA [Paraburkholderia xenovorans],165,165,83%,5.00E-48,23.57,192,WP_148222909.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),,anti-phage protein KwaA [Halobacillus sp. ABD4_316],165,165,97%,6.00E-48,23.35,200,WP_474993474.1,No,,,,Bacillota,Bacillales
+32 member(s) 8 organism(s),g-proteobacteria,anti-phage protein KwaA [Aeromonas jandaei],165,165,96%,6.00E-48,17.62,194,WP_438415857.1,No,,,,Pseudomonadota,Aeromonadales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Chishuiella sp.],164,164,84%,7.00E-48,24.07,185,WP_313385606.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Paenibacillus marchantiophytorum],165,165,95%,7.00E-48,25.13,200,WP_189015313.1,No,,,,Bacillota,Bacillales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Prevotella sp.],164,164,94%,1.00E-47,21.99,199,MFC2489962.1,No,,,,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Acinetobacter courvalinii],164,164,94%,1.00E-47,20,191,WP_005228329.1,No,,,,Pseudomonadota,Moraxellales
+2 member(s) 2 organism(s),CFB group bacteria,anti-phage protein KwaA [Flavobacterium pokkalii],164,164,94%,1.00E-47,22.22,189,WP_188220792.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Dysgonomonas sp.],164,164,80%,1.00E-47,27.27,193,MFV0328430.1,No,,,,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),firmicutes,hypothetical protein [Oscillospiraceae bacterium],164,164,99%,1.00E-47,22.22,203,HAY73465.1,No,,,,Bacillota,Eubacteriales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Tenacibaculum sp. nBUS_03],163,163,84%,2.00E-47,25.93,192,WP_435263834.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Bacteroides sp.],163,163,98%,2.00E-47,16.92,196,MFU2421996.1,No,,,,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio splendidus],163,163,95%,2.00E-47,15.54,194,WP_102492614.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),euryarchaeotes,anti-phage protein KwaA [Methanosarcina mazei],164,164,93%,2.00E-47,20.83,206,WP_048040153.1,No,,,,Methanobacteriota,Methanosarcinales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [uncultured Shewanella sp.],163,163,94%,2.00E-47,22.51,197,WP_298772678.1,No,,,,Pseudomonadota,Alteromonadales
+4 member(s) 4 organism(s),g-proteobacteria,MULTISPECIES: anti-phage protein KwaA [Aeromonas],163,163,82%,2.00E-47,20.25,201,WP_257690713.1,No,,,,Pseudomonadota,Aeromonadales
+1 member(s) 1 organism(s),firmicutes,hypothetical protein [Lachnospiraceae bacterium],163,163,97%,3.00E-47,18.13,205,MCH5261057.1,No,,,,Bacillota,Lachnospirales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Shewanella algae],163,163,94%,3.00E-47,18.38,191,WP_335901131.1,No,,,,Pseudomonadota,Alteromonadales
+4 member(s) 3 organism(s),CFB group bacteria,anti-phage protein KwaA [Flavobacterium sp.],163,163,84%,3.00E-47,23.46,196,WP_324068996.1,No,,,,Bacteroidota,Flavobacteriales
+2 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Cronobacter dublinensis],162,162,86%,4.00E-47,22.81,182,WP_336293346.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Bacteroidia bacterium],162,162,92%,4.00E-47,23.63,189,MBP6756587.1,No,,,,Bacteroidota,unclassified Bacteroidota
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Chryseobacterium culicis],162,162,82%,6.00E-47,24.68,194,WP_105680629.1,No,,,,Bacteroidota,Flavobacteriales
+4 member(s) 1 organism(s),E. coli,"anti-phage protein KwaA, partial [Escherichia coli]",161,161,81%,6.00E-47,21.25,164,WP_271359449.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio panuliri],162,162,95%,6.00E-47,17.71,195,WP_075710808.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Cohnella hongkongensis],162,162,97%,7.00E-47,21.65,197,WP_378091415.1,No,,,,Bacillota,Bacillales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Buttiauxella brennerae],162,162,96%,8.00E-47,21.54,195,WP_310608461.1,No,,,,Pseudomonadota,Enterobacterales
+2 member(s) 2 organism(s),g-proteobacteria,MULTISPECIES: anti-phage protein KwaA [Acinetobacter calcoaceticus/baumannii complex],161,161,84%,1.00E-46,20.37,190,WP_016653549.1,No,,,,Pseudomonadota,Moraxellales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Zunongwangia profunda],162,162,84%,1.00E-46,24.69,196,WP_228249237.1,No,,,,Bacteroidota,Flavobacteriales
+2 member(s) 2 organism(s),CFB group bacteria,anti-phage protein KwaA [Epilithonimonas pallida],161,161,82%,1.00E-46,24.68,194,WP_283416830.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Aeromonas dhakensis],160,160,77%,1.00E-46,22.82,154,WP_422613891.1,No,,,,Pseudomonadota,Aeromonadales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Peptoniphilaceae bacterium],163,163,99%,1.00E-46,19.19,252,MGO3751523.1,No,,,,Bacillota,Tissierellales
+2 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio parahaemolyticus],162,162,83%,2.00E-46,20.62,212,WP_206936715.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Mediterraneibacter catenae],161,161,99%,2.00E-46,21.11,204,WP_150311050.1,No,,,,Bacillota,Lachnospirales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Anaerocolumna sp.],161,161,95%,2.00E-46,22.4,197,MFV0341970.1,No,,,,Bacillota,Lachnospirales
+5 member(s) 5 organism(s),b-proteobacteria,MULTISPECIES: anti-phage protein KwaA [Burkholderia],161,161,83%,2.00E-46,22.93,192,WP_060261962.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),enterobacteria,hypothetical protein OS12_10780 [Dickeya oryzae],159,159,74%,2.00E-46,23.61,147,GAB7199636.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Mucilaginibacter myungsuensis],160,160,95%,2.00E-46,19.89,186,WP_194112318.1,No,,,,Bacteroidota,Sphingobacteriales
+1 member(s) 1 organism(s),euryarchaeotes,MULTISPECIES: anti-phage protein KwaA [unclassified Methanolobus],161,161,94%,3.00E-46,21.24,202,WP_407281718.1,No,,,,Methanobacteriota,Methanosarcinales
+3 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Butyricimonas virosa],160,160,85%,3.00E-46,25,194,WP_118258271.1,No,,,,Bacteroidota,Bacteroidales
+3 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Agathobacter rectalis],160,160,99%,3.00E-46,16.67,200,WP_117715160.1,No,,,,Bacillota,Lachnospirales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Variovorax sp. RCC_210],160,160,83%,3.00E-46,21.02,202,WP_371087717.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Photobacterium damselae],160,160,96%,4.00E-46,20.53,195,WP_148109889.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Denitratisoma oestradiolicum],160,160,98%,7.00E-46,18.91,206,WP_145772385.1,No,,,,Pseudomonadota,Nitrosomonadales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Photobacterium toruni],160,160,95%,7.00E-46,17.65,204,WP_080176603.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Flavobacterium sp.],159,159,83%,9.00E-46,21.88,193,WP_415039696.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),enterobacteria,hypothetical protein [Proteus mirabilis],158,158,81%,9.00E-46,20,165,EKU7881633.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Ornithobacterium rhinotracheale],159,159,85%,1.00E-45,22.56,192,WP_449013797.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Aeromonas simiae],159,159,96%,1.00E-45,17.91,202,WP_042046264.1,No,,,,Pseudomonadota,Aeromonadales
+3 member(s) 3 organism(s),g-proteobacteria,anti-phage protein KwaA [Acinetobacter modestus],159,159,87%,1.00E-45,20.69,190,WP_346512000.1,No,,,,Pseudomonadota,Moraxellales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Jeotgalibacillus proteolyticus],159,159,85%,2.00E-45,26.99,197,WP_426872992.1,No,,,,Bacillota,Bacillales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Enterobacter roggenkampii],158,158,85%,2.00E-45,18.9,178,WP_320206157.1,No,,,,Pseudomonadota,Enterobacterales
+3 member(s) 2 organism(s),CFB group bacteria,MULTISPECIES: anti-phage protein KwaA [Sphingobacterium],158,158,95%,2.00E-45,23.96,195,WP_286752168.1,No,,,,Bacteroidota,Sphingobacteriales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Lachnospiraceae bacterium],158,158,98%,2.00E-45,16.49,196,MFI3236597.1,No,,,,Bacillota,Lachnospirales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Paraburkholderia sp.],158,158,83%,3.00E-45,24.2,192,WP_293039363.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Flavobacterium sp.],157,157,93%,4.00E-45,24.34,191,WP_297510038.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Tenacibaculum singaporense],157,157,85%,6.00E-45,24.39,191,WP_125345434.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Bacillus mycoides],157,157,84%,7.00E-45,25.93,194,WP_137057378.1,No,,,,Bacillota,Bacillales
+2 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Indolivaga alginatilytica],157,157,81%,7.00E-45,26.11,192,WP_110312175.1,No,,,,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio sp. ArtGut-C1],156,156,82%,8.00E-45,18.47,173,WP_371343735.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Bacteroidota bacterium],157,157,85%,9.00E-45,26.83,196,MEN9876673.1,No,,,,Bacteroidota,unclassified Bacteroidota
+1 member(s) 1 organism(s),g-proteobacteria,"hypothetical protein CGH50_25975, partial [Vibrio parahaemolyticus]",156,156,84%,1.00E-44,17.24,182,TON82282.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Vibrionales
+2 member(s) 2 organism(s),g-proteobacteria,MULTISPECIES: anti-phage protein KwaA [unclassified Pseudomonas],156,156,92%,1.00E-44,17.89,198,WP_243435209.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),firmicutes,hypothetical protein [Clostridia bacterium],156,156,98%,1.00E-44,19.8,198,MBO5715199.1,No,,,,Bacillota,unclassified Clostridia
+2 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Shewanella xiamenensis],157,157,95%,1.00E-44,20.1,209,WP_374907454.1,No,,,,Pseudomonadota,Alteromonadales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Enterovibrio norvegicus],156,156,95%,2.00E-44,17.1,199,WP_102396815.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Acinetobacter portensis],155,155,84%,2.00E-44,21.6,190,WP_163122819.1,No,,,ncKwaB broken into two,Pseudomonadota,Moraxellales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Wenyingzhuangia heitensis],155,155,94%,2.00E-44,22.75,189,WP_394352398.1,No,,,,Bacteroidota,Flavobacteriales
+2 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio cholerae],157,157,97%,3.00E-44,18.66,227,WP_254592131.1,No,,,,Pseudomonadota,Vibrionales
+2 member(s) 1 organism(s),g-proteobacteria,hypothetical protein [Vibrio vulnificus],154,154,82%,3.00E-44,17.72,172,ELR8704593.1,No,,,,Pseudomonadota,Vibrionales
+4 member(s) 3 organism(s),g-proteobacteria,anti-phage protein KwaA [Aeromonas hydrophila],154,154,78%,3.00E-44,17.88,168,WP_374898465.1,No,,,ncKwaB broken into two,Pseudomonadota,Aeromonadales
+4 member(s) 4 organism(s),RNA similarity group I,anti-phage protein KwaA [Pseudomonas sp. USTB-Z],155,155,92%,4.00E-44,16.84,198,WP_259674085.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Lutibacter oricola],155,155,84%,4.00E-44,26.71,191,WP_090126752.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Photobacterium sp. DNB22_13_2],155,155,95%,5.00E-44,15.53,209,WP_446511629.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [uncultured Pseudacidovorax sp.],155,155,84%,5.00E-44,22.42,190,WP_295523685.1,No,,,,Pseudomonadota,Burkholderiales
+2 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio kanaloae],155,155,95%,5.00E-44,19.12,204,WP_248376324.1,No,,,,Pseudomonadota,Vibrionales
+2 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Ruminococcus sp.],155,155,98%,5.00E-44,20.42,196,WP_337613737.1,No,,,,Bacillota,Eubacteriales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Limnohabitans parvus],155,155,82%,6.00E-44,20.65,200,WP_108312772.1,No,,,,Pseudomonadota,Burkholderiales
+4 member(s) 2 organism(s),enterobacteria,hypothetical protein [Escherichia coli],152,152,70%,7.00E-44,21.9,140,EEZ0280623.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),proteobacteria,hypothetical protein [Pseudomonadota bacterium],154,154,97%,8.00E-44,21.58,191,MCP4294135.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,unclassified Pseudomonadota
+1 member(s) 1 organism(s),g-proteobacteria,hypothetical protein [Gammaproteobacteria bacterium],153,153,70%,8.00E-44,23.7,150,MCF6338275.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,unclassified Gammaproteobacteria
+1 member(s) 1 organism(s),firmicutes,hypothetical protein [Clostridia bacterium],154,154,97%,9.00E-44,20.51,196,MCQ2470415.1,No,,,ncKwaB broken into two,Bacillota,unclassified Clostridia
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Algoriphagus namhaensis],154,154,94%,1.00E-43,19.17,196,WP_459240100.1,No,,,,Bacteroidota,Cytophagales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Heyndrickxia oleronia],154,154,83%,1.00E-43,26.88,192,WP_212945791.1,No,,,,Bacillota,Bacillales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Flavobacterium sp.],154,154,85%,1.00E-43,24.24,193,WP_296685834.1,No,,,,Bacteroidota,Flavobacteriales
+5 member(s) 5 organism(s),enterobacteria,anti-phage protein KwaA [Enterobacter pseudoroggenkampii],154,154,94%,1.00E-43,15.98,207,WP_463726804.1,No,,,,Pseudomonadota,Enterobacterales
+2 member(s) 2 organism(s),enterobacteria,MULTISPECIES: anti-phage protein KwaA [Enterobacteriaceae],153,153,88%,1.00E-43,21.79,179,WP_420889391.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Lysinibacillus fusiformis],154,154,81%,1.00E-43,25.48,194,WP_427486223.1,No,,,,Bacillota,Bacillales
+4 member(s) 3 organism(s),enterobacteria,anti-phage protein KwaA [Escherichia coli],152,152,70%,2.00E-43,22.79,139,EOK1309985.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Elizabethkingia meningoseptica],153,153,84%,2.00E-43,26.11,188,WP_275150179.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Chryseobacterium oranimense],153,153,82%,2.00E-43,23.9,194,WP_073059871.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),bacteria,hypothetical protein D7V90_14160 [bacterium 1xD42-87],154,154,99%,2.00E-43,20.3,205,RKI80560.1,No,,,,unclassified Bacteria,unclassified Bacteria
+2 member(s) 1 organism(s),E. coli,"anti-phage protein KwaA, partial [Escherichia coli]",152,152,75%,2.00E-43,20.67,152,WP_251287565.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),bacteria,anti-phage protein KwaA [Fidelibacterota bacterium],152,152,96%,4.00E-43,21.76,194,MFP4547890.1,No,,,,Fidelibacterota,unclassified Fidelibacterota
+5 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio metoecus],153,153,95%,4.00E-43,18.63,204,WP_055045097.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Paenibacillus radicis (ex Xue et al. 2023)],152,152,97%,4.00E-43,17.95,198,WP_258212321.1,No,,,,Bacillota,Bacillales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Aeromonas salmonicida],152,152,96%,6.00E-43,16.49,195,WP_408133693.1,No,,,Has Kwa in two different loci,Pseudomonadota,Aeromonadales
+1 member(s) 1 organism(s),CFB group bacteria,MAG: hypothetical protein A2W94_05850 [Bacteroidetes bacterium GWE2_42_42],152,152,83%,6.00E-43,20.62,188,OFY10229.1,No,,,,Bacteroidota,unclassified Bacteroidota
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [uncultured Chryseobacterium sp.],151,151,85%,9.00E-43,26.25,188,WP_288462548.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Sediminibacterium sp.],151,151,84%,1.00E-42,21.82,195,WP_439516670.1,No,,,,Bacteroidota,Chitinophagales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Algoriphagus resistens],151,151,84%,1.00E-42,24.07,196,WP_057938839.1,No,,,,Bacteroidota,Cytophagales
+1 member(s) 1 organism(s),g-proteobacteria,"anti-phage protein KwaA, partial [Acinetobacter seifertii]",149,149,68%,1.00E-42,23.48,135,WP_151821047.1,No,,,,Pseudomonadota,Moraxellales
+2 member(s) 2 organism(s),enterobacteria,anti-phage protein KwaB [Klebsiella variicola],159,159,96%,1.00E-42,21.54,514,WP_395165298.1,No,,,,Pseudomonadota,Enterobacterales
+17 member(s) 4 organism(s),enterobacteria,hypothetical protein [Salmonella enterica subsp. houtenae],150,150,76%,1.00E-42,21.85,162,EDU9648380.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Janthinobacterium silvisoli],151,151,78%,2.00E-42,22.76,196,WP_183676799.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Shewanella algae],151,151,95%,2.00E-42,18.23,193,WP_208156966.1,No,,,,Pseudomonadota,Alteromonadales
+2 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Cupriavidus pauculus],150,150,81%,2.00E-42,21.66,190,WP_146002091.1,No,,,,Pseudomonadota,Burkholderiales
+6 member(s) 4 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio cholerae],152,152,96%,2.00E-42,17.53,230,WP_114711982.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio harveyi],151,151,74%,2.00E-42,22.54,210,WP_188015142.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Chryseobacterium sp. CT-SW4],150,150,84%,2.00E-42,23.93,194,WP_419870544.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),g-proteobacteria,hypothetical protein [Vibrio vulnificus],149,149,74%,3.00E-42,27.27,143,EHH1225313.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Leclercia adecarboxylata],150,150,95%,3.00E-42,16.84,198,MDU1654716.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),bacteria,anti-phage protein KwaA [Pyrinomonadaceae bacterium],150,150,99%,3.00E-42,20.5,201,MEZ5305528.1,No,,,,Acidobacteriota,Blastocatellales
+2 member(s) 2 organism(s),g-proteobacteria,"hypothetical protein CGJ15_25260, partial [Vibrio parahaemolyticus]",149,149,80%,4.00E-42,23.26,172,TOF86276.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Caldifermentibacillus hisashii],150,150,95%,5.00E-42,25,194,WP_363551072.1,No,,,,Bacillota,Bacillales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Bacteroides sp.],153,153,72%,5.00E-42,25.18,294,MCD8181804.1,N/A,,,Seems to only have ncKwaA,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Rahnella victoriana],148,148,73%,6.00E-42,19.86,153,WP_232769484.1,No,,,ncKwa on two different loci,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),firmicutes,hypothetical protein [Clostridia bacterium],150,150,85%,6.00E-42,21.6,203,MBO5512896.1,No,,,,Bacillota,unclassified Clostridia
+3 member(s) 2 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Citrobacter braakii]",149,149,87%,6.00E-42,21.47,177,WP_049040732.1,No,,,Seems to only have ncKwaA,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Polaromonas sp. CG_9.11],149,149,82%,6.00E-42,20.51,200,WP_196870741.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Clostridium sp. Marseille-P2415],148,148,77%,6.00E-42,25.49,157,WP_077611612.1,N/A,,,Seems to only have ncKwaA,Bacillota,Eubacteriales
+3 member(s) 2 organism(s),CFB group bacteria,anti-phage protein KwaA [Wenyingzhuangia heitensis],150,150,84%,7.00E-42,20.37,204,WP_167190739.1,N/A,,,Seems to only have ncKwaA,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Aliivibrio fischeri],149,149,96%,7.00E-42,18.32,192,WP_233946552.1,No,,,,Pseudomonadota,Vibrionales
+3 member(s) 3 organism(s),CFB group bacteria,anti-phage protein KwaA [Pedobacter petrophilus],149,149,95%,9.00E-42,19.79,193,WP_209437728.1,No,,,,Bacteroidota,Sphingobacteriales
+2 member(s) 2 organism(s),enterobacteria,anti-phage protein KwaA [Erwinia sp. S38],149,149,94%,1.00E-41,16.49,197,WP_200546977.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Eubacterium sp.],149,149,96%,1.00E-41,20.21,202,MEG0075700.1,No,,,,Bacillota,Eubacteriales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Enterobacter sp. kpr-6],149,149,94%,1.00E-41,18.04,198,WP_177220109.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Lewinellaceae bacterium],149,149,92%,1.00E-41,21.62,186,MCB9341275.1,No,,,,Bacteroidota,Saprospirales
+1 member(s) 1 organism(s),g-proteobacteria,conserved hypothetical protein [Histophilus somni 129PT],147,147,79%,1.00E-41,23.03,155,ABI24493.1,No,,,ncKwaB broken into two,Pseudomonadota,Pasteurellales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Chitinophaga filiformis],149,149,94%,1.00E-41,21.93,208,WP_236394960.1,No,,,,Bacteroidota,Chitinophagales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Oscillospiraceae bacterium 38-13],147,147,84%,1.00E-41,20.25,163,MEY8389349.1,No,,,,Bacillota,Eubacteriales
+2 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Emticicia oligotrophica],148,148,92%,1.00E-41,20.99,181,WP_015026259.1,N/A,,,Seems to only have ncKwaA,Bacteroidota,Cytophagales
+2 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Acinetobacter nosocomialis],148,148,83%,2.00E-41,22.36,176,WP_373865652.1,No,,,,Pseudomonadota,Moraxellales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Alkalibacterium putridalgicola],148,148,97%,2.00E-41,21.86,184,WP_091486397.1,No,,,,Bacillota,Lactobacillales
+14 member(s) 6 organism(s),enterobacteria,anti-phage protein KwaA [Escherichia coli],149,149,97%,2.00E-41,20.81,198,WP_000836922.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),b-proteobacteria,hypothetical protein [Burkholderiales bacterium],149,149,98%,2.00E-41,20.4,206,MBV8659829.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),firmicutes,hypothetical protein [Lachnospiraceae bacterium],148,148,78%,2.00E-41,20.81,181,MBD5462006.1,No,,,,Bacillota,Lachnospirales
+2 member(s) 2 organism(s),firmicutes,anti-phage protein KwaA [uncultured Gemmiger sp.],148,148,99%,2.00E-41,23.23,204,WP_294805136.1,No,,,,Bacillota,Eubacteriales
+3 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Sutterella wadsworthensis],147,147,95%,4.00E-41,20.54,194,WP_165659739.1,No,,,,Pseudomonadota,Burkholderiales
+3 member(s) 3 organism(s),firmicutes,anti-phage protein KwaA [Bacillus timonensis],147,147,85%,4.00E-41,26.38,197,WP_408605281.1,No,,,ncKwaB broken into two,Bacillota,Bacillales
+2 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Acinetobacter baumannii],147,147,84%,5.00E-41,21.47,190,WP_163048518.1,No,,,,Pseudomonadota,Moraxellales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Methylobacter sp.],145,145,77%,5.00E-41,24.03,155,HEY8037086.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Methylococcales
+2 member(s) 2 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Klebsiella ornithinolytica]",145,145,69%,5.00E-41,22.96,138,WP_404695021.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Wenyingzhuangia sp. 2_MG-2023],147,147,85%,6.00E-41,24.54,206,WP_303456111.1,N/A,,,Seems to only have ncKwaA,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Paenibacillus sp. FSL H8-0261],147,147,84%,6.00E-41,25.93,194,WP_405175595.1,No,,,,Bacillota,Bacillales
+1 member(s) 1 organism(s),enterobacteria,MULTISPECIES: anti-phage protein KwaA [Serratia],147,147,95%,7.00E-41,17.35,197,WP_262943145.1,No,,,,Pseudomonadota,Enterobacterales
+2 member(s) 1 organism(s),bacteria,anti-phage protein KwaA [Leptospira ognonensis],147,147,94%,8.00E-41,20,192,WP_135623801.1,No,,,,Spirochaetota,Leptospirales
+2 member(s) 2 organism(s),CFB group bacteria,anti-phage protein KwaA [Chryseobacterium gotjawalense],146,146,94%,8.00E-41,22.58,188,WP_282905195.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Sporosarcina sp. SAFN-010],147,147,84%,9.00E-41,25.15,195,WP_440505029.1,No,,,,Bacillota,Bacillales
+2 member(s) 2 organism(s),CFB group bacteria,anti-phage protein KwaA [Macellibacteroides fermentans],146,146,94%,1.00E-40,21.99,192,WP_079683435.1,No,,,,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Paludibacteraceae bacterium],146,146,77%,1.00E-40,26.17,185,MBP8967279.1,No,,,,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Aquitalea denitrificans],146,146,98%,2.00E-40,18.91,206,WP_159875947.1,No,,,,Pseudomonadota,Neisseriales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Serratia sp. Je.1.23.a],146,146,96%,2.00E-40,16.49,199,WP_434678746.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Undibacterium sp. SXout7W],146,146,98%,2.00E-40,19.4,206,WP_423049159.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Plebeiibacterium sediminum],145,145,92%,2.00E-40,23.5,184,WP_301191859.1,No,,,,Bacteroidota,Marinilabiliales
+2 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio splendidus],145,145,95%,2.00E-40,18.54,205,WP_114635258.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Neobacillus paridis],145,145,82%,3.00E-40,21.79,200,WP_202654795.1,N/A,,,Seems to only have ncKwaA,Bacillota,Bacillales
+2 member(s) 2 organism(s),bacteria,hypothetical protein [bacterium],145,145,92%,3.00E-40,19.46,196,MBO5947443.1,No,,,,unclassified Bacteria,unclassified Bacteria
+1 member(s) 1 organism(s),,anti-phage protein KwaA [Ochrovirga sp.],144,144,76%,3.00E-40,26.03,165,MHN8896447.1,N/A,,,Seems to only have ncKwaA,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),CFB group bacteria,"anti-phage protein KwaA, partial [uncultured Dysgonomonas sp.]",144,144,72%,3.00E-40,27.34,167,WP_298940191.1,N/A,,,Seems to only have ncKwaA,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Cyclobacteriaceae bacterium],145,145,84%,3.00E-40,24.07,196,MDH5365698.1,No,,,,Bacteroidota,Cytophagales
+1 member(s) 1 organism(s),E. coli,"anti-phage protein KwaA, partial [Escherichia coli]",142,142,66%,5.00E-40,24.39,130,WP_286205924.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Bacteroidales bacterium],144,144,85%,5.00E-40,18.87,185,MEE0235350.1,No,,,,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Pedobacter gandavensis],144,144,92%,6.00E-40,23.63,181,WP_281031558.1,No,,,,Bacteroidota,Sphingobacteriales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Flavobacterium croceum],144,144,82%,7.00E-40,21.02,189,WP_282787908.1,No,,,,Bacteroidota,Flavobacteriales
+9 member(s) 1 organism(s),E. coli,anti-phage protein KwaA [Escherichia coli],144,144,95%,8.00E-40,19.49,196,WP_061091952.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Bacteroidota bacterium],144,144,92%,8.00E-40,20.22,184,MBK7967982.1,N/A,,,Seems to only have ncKwaA,Bacteroidota,unclassified Bacteroidota
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Capnocytophaga sputigena],144,144,84%,9.00E-40,21.74,190,WP_424653440.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Ochrovirga pacifica],144,144,85%,1.00E-39,25.77,202,WP_071585701.1,N/A,,,Seems to only have ncKwaA,Bacteroidota,Flavobacteriales
+2 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Limnohabitans sp. 2KL-17],144,144,81%,1.00E-39,21.02,206,WP_146180923.1,No,,,,Pseudomonadota,Burkholderiales
+4 member(s) 1 organism(s),E. coli,hypothetical protein [Escherichia coli],141,141,60%,1.00E-39,24.58,121,EFD0545120.1,No,,,,Pseudomonadota,Enterobacterales
+2 member(s) 2 organism(s),CFB group bacteria,anti-phage protein KwaA [Capnocytophaga catalasegens],143,143,85%,1.00E-39,22.64,186,WP_264844924.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),bacteria,anti-phage protein KwaA [Synergistota bacterium],142,142,75%,1.00E-39,20.14,144,MDI9370835.1,No,,,,Synergistota,unclassified Synergistota
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Undibacterium sp. RuTC16W],144,144,98%,2.00E-39,17.91,206,WP_422957273.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Paenibacillus sp. FSL R7-277],143,143,92%,2.00E-39,20.32,189,WP_036733505.1,No,,,,Bacillota,Bacillales
+1 member(s) 1 organism(s),bacteria,anti-phage protein KwaA [Pyrinomonadaceae bacterium],142,142,96%,5.00E-39,18.95,201,MFM9903631.1,No,,,,Acidobacteriota,Blastocatellales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Pseudoxanthomonas taiwanensis],140,140,80%,5.00E-39,19.11,150,WP_162125139.1,No,,,,Pseudomonadota,Lysobacterales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Serratia sp. T13T92],142,142,93%,6.00E-39,19.79,197,WP_414823935.1,No,,,,Pseudomonadota,Enterobacterales
+3 member(s) 3 organism(s),g-proteobacteria,MULTISPECIES: anti-phage protein KwaA [Acinetobacter],142,142,83%,6.00E-39,22.36,197,WP_130168919.1,No,,,,Pseudomonadota,Moraxellales
+2 member(s) 2 organism(s),bacteria,anti-phage protein KwaA [Flavobacterium sp.],141,141,91%,8.00E-39,19.57,186,HPW98355.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Petroclostridium xylanilyticum],141,141,96%,9.00E-39,19.69,196,WP_463210262.1,No,,,,Bacillota,Eubacteriales
+1 member(s) 1 organism(s),firmicutes,hypothetical protein [Syntrophomonas sp.],141,141,98%,1.00E-38,21.83,203,HBQ26076.1,No,,,,Bacillota,Eubacteriales
+5 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Sutterella wadsworthensis],140,140,90%,1.00E-38,22.73,181,WP_410105240.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),enterobacteria,hypothetical protein [Salmonella enterica],139,139,72%,1.00E-38,20.98,145,EKP5184167.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,hypothetical protein [Vibrio vulnificus],139,139,75%,1.00E-38,22.07,145,EHI9274977.1,No,,,,Pseudomonadota,Vibrionales
+10 member(s) 4 organism(s),enterobacteria,anti-phage protein KwaA [Yersinia ruckeri],141,141,98%,1.00E-38,21.74,212,WP_265316553.1,No,,,,Pseudomonadota,Enterobacterales
+3 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio hyugaensis],141,141,86%,1.00E-38,20,193,WP_045403049.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Telluribacter sp.],140,140,92%,2.00E-38,20.11,186,WP_414717299.1,No,,,,Bacteroidota,Cytophagales
+1 member(s) 1 organism(s),g-proteobacteria,"anti-phage protein KwaA, partial [Vibrio parahaemolyticus]",139,139,75%,2.00E-38,23.33,150,WP_219588576.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Vibrionales
+2 member(s) 2 organism(s),CFB group bacteria,anti-phage protein KwaA [Rurimicrobium arvi],140,140,92%,2.00E-38,22.1,181,WP_344825704.1,No,,,,Bacteroidota,Chitinophagales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Aliivibrio sp. EL58],138,138,70%,2.00E-38,22.22,142,WP_371413444.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),g-proteobacteria,DUF4868 domain-containing protein [Vibrio parahaemolyticus],148,148,83%,2.00E-38,22.5,513,HCE1492872.1,N/A,,,Seems to have ncKwaA inside ncKwaB,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Cytophagales bacterium],140,140,94%,3.00E-38,22.04,191,MBD0260626.1,No,,,,Bacteroidota,Cytophagales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Acinetobacter bereziniae],140,140,83%,3.00E-38,22.36,197,WP_151776169.1,No,,,,Pseudomonadota,Moraxellales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Klebsiella ornithinolytica],138,138,68%,3.00E-38,22.73,138,EQB3642362.1,No,,,,Pseudomonadota,Enterobacterales
+3 member(s) 2 organism(s),CFB group bacteria,anti-phage protein KwaA [Zunongwangia sp. SCSIO 43204],139,139,93%,4.00E-38,21.39,186,WP_304956788.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Chryseobacterium glaciei],139,139,85%,5.00E-38,22.01,185,WP_066758887.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Puia sp.],139,139,94%,6.00E-38,19.47,190,HLY72310.1,No,,,,Bacteroidota,Chitinophagales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Sutterella wadsworthensis],139,139,93%,6.00E-38,20.33,188,WP_472911561.1,No,,,,Pseudomonadota,Burkholderiales
+1 member(s) 1 organism(s),e-proteobacteria,anti-phage protein KwaA [Aliarcobacter cryaerophilus],138,138,75%,6.00E-38,24.16,150,WP_390870466.1,No,,,,Campylobacterota,Campylobacterales
+4 member(s) 3 organism(s),enterobacteria,MULTISPECIES: anti-phage protein KwaA [Pantoea],139,139,84%,7.00E-38,20.13,197,WP_167430945.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Mucilaginibacter sp. SG564],138,138,92%,9.00E-38,21.31,184,WP_172338219.1,No,,,,Bacteroidota,Sphingobacteriales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Epilithonimonas vandammei],138,138,85%,9.00E-38,22.5,186,WP_313599315.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein JCM15907A_12310 [Porphyromonas gingivicanis],136,136,62%,9.00E-38,27.87,125,BHA11068.1,No,,,,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),GNS bacteria,MAG: hypothetical protein E6I32_16530 [Chloroflexota bacterium],138,138,96%,1.00E-37,17.78,175,TMF43390.1,No,,,,Chloroflexota,unclassified Chloroflexota
+2 member(s) 2 organism(s),g-proteobacteria,"anti-phage protein KwaA, partial [Aeromonas hydrophila]",136,136,70%,1.00E-37,20.59,137,WP_323061854.1,No,,,,Pseudomonadota,Aeromonadales
+3 member(s) 3 organism(s),CFB group bacteria,anti-phage protein KwaA [Bacteroides sp. OM05-12],138,138,94%,2.00E-37,19.37,194,WP_122127471.1,No,,,,Bacteroidota,Bacteroidales
+4 member(s) 2 organism(s),CFB group bacteria,anti-phage protein KwaA [Phocaeicola plebeius],137,137,84%,2.00E-37,27.95,189,WP_346711933.1,No,,,,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),b-proteobacteria,anti-phage protein KwaA [Aromatoleum tolulyticum],138,138,98%,3.00E-37,18.91,206,WP_076602022.1,No,,,,Pseudomonadota,Rhodocyclales
+2 member(s) 1 organism(s),g-proteobacteria,"anti-phage protein KwaA, partial [Vibrio parahaemolyticus]",136,136,73%,3.00E-37,18.24,148,WP_140137640.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Vibrionales
+3 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio cholerae],137,137,80%,4.00E-37,16.96,173,HFG1759792.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Bacteroides caecicola],137,137,96%,4.00E-37,22.56,196,WP_249053310.1,No,,,,Bacteroidota,Bacteroidales
+6 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio parahaemolyticus],136,136,84%,6.00E-37,22.22,171,WP_050550956.1,No,,,,Pseudomonadota,Vibrionales
+27 member(s) 8 organism(s),enterobacteria,MULTISPECIES: anti-phage protein KwaA [Enterobacteriaceae],137,137,98%,6.00E-37,19.81,211,WP_032269064.1,No,,,,Pseudomonadota,Enterobacterales
+2 member(s) 2 organism(s),RNA similarity group I,hypothetical protein KH389_12870 [Pseudomonas qingdaonensis],135,135,73%,7.00E-37,21.01,141,QVL21623.1,No,,,,Pseudomonadota,Pseudomonadales
+61 member(s) 28 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Salmonella enterica]",136,136,86%,8.00E-37,16.76,182,WP_235655193.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),GNS bacteria,hypothetical protein [Ktedonobacteraceae bacterium],136,136,96%,8.00E-37,22.78,182,HYK86962.1,No,,,,Chloroflexota,Ktedonobacterales
+83 member(s) 30 organism(s),g-proteobacteria,anti-phage protein KwaA [Klebsiella michiganensis],136,136,84%,9.00E-37,21.38,197,WP_289498381.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Enterobacterales
+3 member(s) 3 organism(s),firmicutes,anti-phage protein KwaA [Paenibacillus antarcticus],136,136,84%,1.00E-36,19.88,189,WP_068648672.1,No,,,,Bacillota,Bacillales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Carboxylicivirga marina],135,135,91%,1.00E-36,19.67,186,WP_289054316.1,No,,,,Bacteroidota,Marinilabiliales
+2 member(s) 2 organism(s),firmicutes,anti-phage protein KwaA [Paenibacillus sp. FSL L8-0493],135,135,84%,2.00E-36,19.25,185,WP_341286776.1,No,,,,Bacillota,Bacillales
+1 member(s) 1 organism(s),GNS bacteria,hypothetical protein [Ktedonobacteraceae bacterium],135,135,96%,2.00E-36,19.44,174,HZS78714.1,No,,,,Chloroflexota,Ktedonobacterales
+18 member(s) 9 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Enterobacter roggenkampii]",135,135,84%,2.00E-36,22.01,171,WP_242527858.1,No,,,ncKwa on two different loci,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),,anti-phage protein KwaA [Wenyingzhuangia sp. IMCC45574],135,135,84%,2.00E-36,24.69,206,WP_458228675.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),bacteria,MAG: hypothetical protein ACD_71C00090G0001 [uncultured bacterium (gcode 4)],133,133,70%,3.00E-36,22.79,150,EKD44584.1,N/A,,,Seems to only be ncKwaA,unclassified Bacteria,unclassified Bacteria
+1 member(s) 1 organism(s),firmicutes,anti-phage protein KwaA [Symbiobacteriaceae bacterium],134,134,94%,3.00E-36,19.77,179,HLO02593.1,No,,,,Bacillota,Eubacteriales
+6 member(s) 4 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Enterobacter kobei]",133,133,74%,3.00E-36,21.99,141,WP_231082247.1,No,,,,Pseudomonadota,Enterobacterales
+18 member(s) 3 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio parahaemolyticus],134,134,83%,5.00E-36,22.5,195,WP_025630760.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),enterobacteria,MULTISPECIES: anti-phage protein KwaA [Morganellaceae],134,134,86%,6.00E-36,20.12,194,WP_369479288.1,No,,,,Pseudomonadota,Enterobacterales
+33 member(s) 3 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Salmonella enterica]",133,133,77%,6.00E-36,18.37,163,WP_237362915.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Chitinophagaceae bacterium],133,133,94%,7.00E-36,25.81,190,HAD35226.1,No,,,,Bacteroidota,Chitinophagales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Saprospiraceae bacterium],134,134,93%,8.00E-36,22.4,198,MEI2696155.1,No,,,,Bacteroidota,Saprospirales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Bacteroidales bacterium],132,132,68%,8.00E-36,23.31,135,HBG70474.1,No,,,,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Muribaculaceae bacterium],134,134,99%,9.00E-36,18.5,205,MDE5628488.1,No,,,,Bacteroidota,Bacteroidales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Klebsiella sp. HSTU-Sny5],133,133,83%,1.00E-35,19.62,197,WP_243806835.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Psychrobacter sp. W2-37-MNA-CIBAN-0211],132,132,94%,2.00E-35,17.02,192,WP_352310168.1,No,,,,Pseudomonadota,Moraxellales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Aeromonas aquatica],133,133,79%,2.00E-35,22,197,WP_081966269.1,No,,,,Pseudomonadota,Aeromonadales
+3 member(s) 3 organism(s),enterobacteria,hypothetical protein [Klebsiella pneumoniae],132,132,87%,3.00E-35,20.79,178,HBW2360382.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Enterobacterales
+6 member(s) 2 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Salmonella enterica]",131,131,75%,3.00E-35,19.01,145,WP_235655241.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),enterobacteria,anti-phage protein KwaA [Serratia marcescens],131,131,81%,3.00E-35,20.13,155,HHK8115384.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio owensii],129,129,57%,4.00E-35,25.23,113,WP_054823304.1,No,,,,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Psychrobacter immobilis],131,131,93%,7.00E-35,16.13,187,WP_201543699.1,No,,,,Pseudomonadota,Moraxellales
+3 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio cholerae],130,130,77%,7.00E-35,22.97,148,WP_312845310.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Vibrionales
+4 member(s) 4 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Klebsiella planticola]",128,128,57%,7.00E-35,25.89,115,WP_338150376.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Pontibacter qinzhouensis],131,131,82%,8.00E-35,21.94,183,WP_304608232.1,No,,,,Bacteroidota,Cytophagales
+1 member(s) 1 organism(s),euryarchaeotes,hypothetical protein [Methanosarcinaceae archaeon],130,130,77%,9.00E-35,21.05,154,NOR46775.1,No,,,,Methanobacteriota,Methanosarcinales
+1 member(s) 1 organism(s),g-proteobacteria,"anti-phage protein KwaA, partial [Thiolapillus sp.]",128,128,50%,1.00E-34,27.55,99,WP_419613689.1,No,,,,Pseudomonadota,Chromatiales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Aeromonas hydrophila],131,131,86%,1.00E-34,22.7,197,WP_323901236.1,No,,,,Pseudomonadota,Aeromonadales
+1 member(s) 1 organism(s),euryarchaeotes,hypothetical protein [Methanosarcinales archaeon],131,131,94%,1.00E-34,20.94,199,NKQ39647.1,No,,,,Methanobacteriota,Methanosarcinales
+1 member(s) 1 organism(s),g-proteobacteria,MULTISPECIES: anti-phage protein KwaA [unclassified Psychrobacter],130,130,92%,1.00E-34,20,186,WP_198013354.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Moraxellales
+1 member(s) 1 organism(s),enterobacteria,MULTISPECIES: anti-phage protein KwaA [unclassified Salmonella],130,130,77%,2.00E-34,18.37,207,WP_438797521.1,No,,,,Pseudomonadota,Enterobacterales
+2 member(s) 2 organism(s),g-proteobacteria,anti-phage protein KwaA [Aeromonas dhakensis],129,129,78%,4.00E-34,20.95,197,WP_260750734.1,No,,,,Pseudomonadota,Aeromonadales
+1 member(s) 1 organism(s),firmicutes,hypothetical protein GCM10008018_45550 [Paenibacillus marchantiophytorum],127,127,60%,4.00E-34,29.91,120,GFZ93975.1,No,,,,Bacillota,Bacillales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Paludibacteraceae bacterium],129,129,94%,5.00E-34,17.89,192,MBO5672716.1,No,,,,Bacteroidota,Bacteroidales
+2 member(s) 2 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Escherichia coli]",128,128,85%,6.00E-34,21.34,172,WP_431525915.1,No,,,,Pseudomonadota,Enterobacterales
+6 member(s) 4 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Enterobacter hormaechei]",126,126,56%,7.00E-34,25.45,113,WP_320680765.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),GNS bacteria,MAG: hypothetical protein NVSMB33_17180 [Ktedonobacteraceae bacterium],128,128,95%,7.00E-34,19.23,183,GAC1387545.1,N/A,,,Seems to only have ncKwaA,Chloroflexota,Ktedonobacterales
+1 member(s) 1 organism(s),bacteria,hypothetical protein [Armatimonadota bacterium],128,128,96%,9.00E-34,22.35,172,MDQ3813810.1,N/A,,,Seems to only have ncKwaA,Armatimonadota,unclassified Armatimonadota
+1 member(s) 1 organism(s),GNS bacteria,hypothetical protein [Ktedonobacteraceae bacterium],128,128,95%,1.00E-33,23.46,172,MBE3560681.1,No,,,,Chloroflexota,Ktedonobacterales
+7 member(s) 2 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Klebsiella michiganensis]",126,126,63%,1.00E-33,25.2,127,WP_341353863.1,No,,,,Pseudomonadota,Enterobacterales
+4 member(s) 1 organism(s),E. coli,anti-phage protein KwaA [Escherichia coli],127,127,80%,1.00E-33,21.85,163,MED0383192.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),euryarchaeotes,hypothetical protein MM_2200 [Methanosarcina mazei Go1],126,126,69%,2.00E-33,22.46,144,AAM31896.1,No,,,,Methanobacteriota,Methanosarcinales
+1 member(s) 1 organism(s),g-proteobacteria,hypothetical protein [Vibrio parahaemolyticus],126,126,74%,2.00E-33,23.78,147,EGR3128611.1,No,,,,Pseudomonadota,Vibrionales
+2 member(s) 2 organism(s),GNS bacteria,hypothetical protein [Ktedonobacteraceae bacterium],127,127,95%,2.00E-33,24.16,174,HZO72946.1,No,,,,Chloroflexota,Ktedonobacterales
+4 member(s) 1 organism(s),GNS bacteria,hypothetical protein [Ktedonobacteraceae bacterium],127,127,96%,2.00E-33,19.34,175,HLJ33974.1,No,,,,Chloroflexota,Ktedonobacterales
+1 member(s) 1 organism(s),GNS bacteria,hypothetical protein [Ktedonobacterales bacterium],127,127,93%,2.00E-33,21.59,190,MBA3827243.1,N/A,,,Seems to only have ncKwaA,Chloroflexota,Ktedonobacterales
+4 member(s) 3 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Klebsiella africana]",127,127,80%,2.00E-33,21.38,159,WP_369763861.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),planctomycetes,hypothetical protein [Planctomycetales bacterium],127,127,94%,3.00E-33,20.45,171,MGZ0174363.1,N/A,,,Seems to only have ncKwaA,Plantomycetota,Plantomycetales
+1 member(s) 1 organism(s),firmicutes,"anti-phage protein KwaA, partial [Hominenteromicrobium sp.]",125,125,71%,4.00E-33,28.68,138,WP_417111473.1,No,,,,Bacillota,Eubacteriales
+5 member(s) 2 organism(s),enterobacteria,anti-phage protein KwaA [Escherichia coli],125,125,62%,4.00E-33,24.59,123,WP_349771713.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio jasicida],124,124,56%,4.00E-33,28.18,112,WP_105067425.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Vibrionales
+3 member(s) 3 organism(s),CFB group bacteria,anti-phage protein KwaA [Flavobacterium limi],126,126,84%,4.00E-33,20.96,175,WP_280115141.1,No,,,,Bacteroidota,Flavobacteriales
+26 member(s) 5 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Escherichia coli]",125,125,80%,6.00E-33,22.22,170,WP_252500825.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Yersinia intermedia]",125,125,78%,7.00E-33,24.16,155,WP_415843994.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),enterobacteria,MULTISPECIES: anti-phage protein KwaA [Pantoea],126,126,84%,7.00E-33,19.5,197,WP_050679665.1,No,,,,Pseudomonadota,Enterobacterales
+2 member(s) 2 organism(s),CFB group bacteria,anti-phage protein KwaA [Flavobacterium psychrophilum],124,124,76%,8.00E-33,22.38,144,CAM2980196.1,No,,,,Bacteroidota,Flavobacteriales
+1 member(s) 1 organism(s),enterobacteria,hypothetical protein YEW_FM23390 [Yersinia enterocolitica W22703],125,125,78%,1.00E-32,24.16,177,CBX69805.1,No,,,ncKwaB broken into two,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),GNS bacteria,hypothetical protein [Ktedonobacterales bacterium],124,124,96%,2.00E-32,17.32,173,MGO8949265.1,No,,,,Chloroflexota,Ktedonobacterales
+2 member(s) 1 organism(s),GNS bacteria,hypothetical protein [Chloroflexota bacterium],124,124,94%,2.00E-32,21.47,172,MDQ2906355.1,No,,,,Chloroflexota,unclassified Chloroflexota
+1 member(s) 1 organism(s),e-proteobacteria,hypothetical protein [Campylobacterales bacterium],124,124,94%,3.00E-32,23.81,191,MCX6075699.1,No,,,,Campylobacterota,Campylobacterales
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Pseudomonas syringae group genomosp. 3],125,125,95%,3.00E-32,18.5,201,WP_057443119.1,No,,,,Pseudomonadota,Pseudomonadales
+1 member(s) 1 organism(s),CFB group bacteria,hypothetical protein [Bacteroidota bacterium],124,124,94%,4.00E-32,24.73,188,MBN8703795.1,No,,,,Bacteroidota,unclassified Bacteroidota
+6 member(s) 6 organism(s),enterobacteria,anti-phage protein KwaA [Cedecea davisae],124,124,80%,4.00E-32,21.05,197,WP_395489140.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),bacteria,hypothetical protein [bacterium],124,124,67%,4.00E-32,20.9,182,MCM1189682.1,N/A,,,Seems to only have ncKwaA,unclassified Bacteria,unclassified Bacteria
+9 member(s) 4 organism(s),enterobacteria,anti-phage protein KwaA [Klebsiella variicola],122,122,62%,6.00E-32,24.59,123,WP_320205375.1,No,,,,Pseudomonadota,Enterobacterales
+1 member(s) 1 organism(s),GNS bacteria,hypothetical protein [Ktedonobacteraceae bacterium],124,124,98%,6.00E-32,16.22,202,HVB74180.1,No,,,,Chloroflexota,Ktedonobacterales
+1 member(s) 1 organism(s),GNS bacteria,hypothetical protein [Ktedonobacteraceae bacterium],123,123,95%,7.00E-32,19.44,172,MEO9058327.1,No,,,,Chloroflexota,Ktedonobacterales
+2 member(s) 2 organism(s),enterobacteria,"anti-phage protein KwaA, partial [Klebsiella variicola]",121,121,56%,8.00E-32,27.78,108,WP_277949131.1,No,,,,Pseudomonadota,Enterobacterales
+7 member(s) 6 organism(s),CFB group bacteria,anti-phage protein KwaA [Algoriphagus lutimaris],123,123,94%,1.00E-31,19.02,187,WP_205644661.1,No,,,,Bacteroidota,Cytophagales
+1 member(s) 1 organism(s),g-proteobacteria,hypothetical protein [Methylobacter tundripaludum],122,122,94%,1.00E-31,22.6,170,WP_104427577.1,No,,,,Pseudomonadota,Methylococcales
+1 member(s) 1 organism(s),g-proteobacteria,hypothetical protein [Gammaproteobacteria bacterium],122,122,94%,2.00E-31,19.77,169,MCH9694144.1,No,,,,Pseudomonadota,unclassified Gammaproteobacteria
+1 member(s) 1 organism(s),g-proteobacteria,anti-phage protein KwaA [Vibrio parahaemolyticus],120,120,54%,2.00E-31,30.48,105,MFW1378474.1,N/A,,,Seems to only have ncKwaA,Pseudomonadota,Vibrionales
+1 member(s) 1 organism(s),GNS bacteria,hypothetical protein [Ktedonobacteraceae bacterium],122,122,94%,2.00E-31,21.47,174,HEX6481267.1,No,,,,Chloroflexota,Ktedonobacterales
+1 member(s) 1 organism(s),CFB group bacteria,anti-phage protein KwaA [Bacteroidia bacterium],122,122,94%,2.00E-31,19.57,184,HWY38045.1,No,,,,Bacteroidota,unclassified Bacteroidota
+1 member(s) 1 organism(s),GNS bacteria,hypothetical protein [Ktedonobacteraceae bacterium],122,122,94%,3.00E-31,18.64,172,HZS75318.1,No,,,,Chloroflexota,Ktedonobacterales
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"		",,,,,,,,,,,,,,,
